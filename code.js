@@ -1,7 +1,7 @@
 const title = "github practice"
 
 
-send("도훈");
+send("김도훈");
 
 
 const name = "기엽";
